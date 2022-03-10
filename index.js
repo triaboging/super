@@ -1,5 +1,5 @@
 function sayHi(){
-    console.log('hello world')
-    console.log('hello world1')
+    console.log('hello Тигрик')
+    
 }
 sayHi();
