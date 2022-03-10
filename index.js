@@ -3,6 +3,7 @@ function sayHi(){
     console.log('hello Kuzia')
     console.log('hello Sonia')
     console.log('hello Муська')
+    console.log('hello Питон')
     
 }
 sayHi();
